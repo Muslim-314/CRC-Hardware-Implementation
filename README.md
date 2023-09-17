@@ -10,3 +10,8 @@ This robust hardware-based CRC implementation ensures data integrity and enhance
 <p align="center">
   <img  src="images/block.png">
 </p>
+
+## Hardware Implementation
+<p align="center">
+  <img  src="images/hardware.png">
+</p>
