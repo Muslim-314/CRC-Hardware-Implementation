@@ -1,1 +1,1 @@
-# CRC-Hardware-Implementation
+# CRC Hardware Implementation
